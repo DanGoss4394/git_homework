@@ -42,11 +42,11 @@ x Add, commit and push that up to github
 x Swap back to your stash-practice branch
 x Bring back your stashed changes
 x Don't forget to clear your stash
-x Finsh your console log by logging 
-- Add, commit and push that up to github
-- Merge the stash-practice to your master branch on GitHub
-- Make sure to pull all the changes to the master branch locally
-- Make sure you get rid of all branches online and locally except the master branch
+x Finsh your console log by logging 'it works'
+x Add, commit and push that up to github
+x Merge the stash-practice to your master branch on GitHub
+x Make sure to pull all the changes to the master branch locally
+x Make sure you get rid of all branches online and locally except the master branch
 
 ### Merge Conflict
 
