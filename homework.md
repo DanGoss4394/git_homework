@@ -56,13 +56,13 @@ x Inside your index.js file change line ones code to console.log('Hi from local'
 x Push your code online
 x Go through the steps of merging that branch into master on GitHub. You will have a conflict.
 x After fixing the conflict, make sure the local and online master branch have the same code
-- Make sure you get rid of all branches online and locally except the master branch
+x Make sure you get rid of all branches online and locally except the master branch
 
 ### Merge Conflict Part Two
 
-- Locally Create a new branch called localMergeConflict
-- Open your new-file.py file and change line ones code to print('Hi from local')
-- Commit your changes but DON'T PUSH
+x Locally Create a new branch called localMergeConflict
+x Open your new-file.py file and change line ones code to print('Hi from local')
+x Commit your changes but DON'T PUSH
 - On Github open new-file.py and change line ones code to print('Hi from Online')
 - Locally checkout the master branch and pull down the new changes
 - Merge your localMergeConflict branch into your master branch
