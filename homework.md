@@ -4,27 +4,28 @@
 
 ### Initial Steps
 
-- Create a new folder called git-homework
-- Create a file inside that folder called index.js
-- Initialize git
-- Push to github
+x Create a new folder called git-homework
+x Create a file inside that folder called index.js
+x Initialize git
+x Push to github
 
 ### Branches / Merging
 
-- Go back to the terminal
-- Create a new branch called branchOne
-- On line one of your index.js file add a console.log('Hi')
-- Push this branch up to github
-- Merge that branch into your master branch on github
-- Go back to the terminal
-- Switch back to the master branch
-- Pull down the latest code
-- Make sure you get rid of all branches online and locally except the master branch
+x Go back to the terminal
+x Create a new branch called branchOne
+x On line one of your index.js file add a console.log('Hi')
+x Push this branch up to github
+x Merge that branch into your master branch on github
+x Go back to the terminal
+x Switch back to the master branch
+x Pull down the latest code
+x Make sure you get rid of all branches online and locally except the master branch
 
 ### Branches / Merging Part Two
 
-- Create a new branch called branchTwo
-- On line two of your index.js file declare a variable called name and assign it your name as a string
+x Create a new branch called branchTwo
+x On line two of your index.js file declare a variable called name and assign it your name as a string
+
 - Commit and Add your code
 - Switch back to the master branch
 - Merge this branch into your master branch
