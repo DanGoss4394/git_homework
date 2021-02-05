@@ -28,9 +28,8 @@ x On line two of your index.js file declare a variable called name and assign it
 x Commit and Add your code
 x Switch back to the master branch
 x Merge this branch into your master branch
-
-- Push your new code up to GitHub
-- Make sure you get rid of all branches online and locally except the master branch
+x Push your new code up to GitHub
+x Make sure you get rid of all branches online and locally except the master branch
 
 ### Stash / Branches / Merging
 
