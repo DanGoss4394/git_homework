@@ -25,8 +25,9 @@ x Make sure you get rid of all branches online and locally except the master bra
 
 x Create a new branch called branchTwo
 x On line two of your index.js file declare a variable called name and assign it your name as a string
+x Commit and Add your code
 
-- Commit and Add your code
+
 - Switch back to the master branch
 - Merge this branch into your master branch
 - Push your new code up to GitHub
