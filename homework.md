@@ -50,7 +50,7 @@ x Make sure you get rid of all branches online and locally except the master bra
 
 ### Merge Conflict
 
-- On Github open index.js and change line ones code to console.log('Hi from Online')
+x On Github open index.js and change line ones code to console.log('Hi from Online')
 - Create a new branch locally called onlineMergeConflict
 - Inside your index.js file change line ones code to console.log('Hi from local')
 - Push your code online
