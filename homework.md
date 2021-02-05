@@ -4,10 +4,10 @@
 
 ### Initial Steps
 
-- Create a new folder called git-homework
-- Create a file inside that folder called index.js
-- Initialize git
-- Push to github
+x Create a new folder called git-homework
+x Create a file inside that folder called index.js
+x Initialize git
+x Push to github
 
 ### Branches / Merging
 
