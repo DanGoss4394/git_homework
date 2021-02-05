@@ -51,11 +51,11 @@ x Make sure you get rid of all branches online and locally except the master bra
 ### Merge Conflict
 
 x On Github open index.js and change line ones code to console.log('Hi from Online')
-- Create a new branch locally called onlineMergeConflict
-- Inside your index.js file change line ones code to console.log('Hi from local')
-- Push your code online
-- Go through the steps of merging that branch into master on GitHub. You will have a conflict.
-- After fixing the conflict, make sure the local and online master branch have the same code
+x Create a new branch locally called onlineMergeConflict
+x Inside your index.js file change line ones code to console.log('Hi from local')
+x Push your code online
+x Go through the steps of merging that branch into master on GitHub. You will have a conflict.
+x After fixing the conflict, make sure the local and online master branch have the same code
 - Make sure you get rid of all branches online and locally except the master branch
 
 ### Merge Conflict Part Two
