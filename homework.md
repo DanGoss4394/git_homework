@@ -63,10 +63,10 @@ x Make sure you get rid of all branches online and locally except the master bra
 x Locally Create a new branch called localMergeConflict
 x Open your new-file.py file and change line ones code to print('Hi from local')
 x Commit your changes but DON'T PUSH
-- On Github open new-file.py and change line ones code to print('Hi from Online')
-- Locally checkout the master branch and pull down the new changes
-- Merge your localMergeConflict branch into your master branch
-- You will run into a merge conflict... fix the issues
+x On Github open new-file.py and change line ones code to print('Hi from Online')
+x Locally checkout the master branch and pull down the new changes
+x Merge your localMergeConflict branch into your master branch
+x You will run into a merge conflict... fix the issues
 - After fixing the conflict, make sure the local and online master branch have the same code
 - Make sure you get rid of all branches online and locally except the master branch
 
