@@ -39,10 +39,10 @@ x Stash your changes and swap back over to the master branch
 x Add a new file called new-file.py
 x Add a print('hello') to this file
 x Add, commit and push that up to github
-- Swap back to your stash-practice branch
-- Bring back your stashed changes
-- Don't forget to clear your stash
-- Finsh your console log by logging 'it works'
+x Swap back to your stash-practice branch
+x Bring back your stashed changes
+x Don't forget to clear your stash
+x Finsh your console log by logging 
 - Add, commit and push that up to github
 - Merge the stash-practice to your master branch on GitHub
 - Make sure to pull all the changes to the master branch locally
