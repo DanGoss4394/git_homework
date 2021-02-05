@@ -33,12 +33,12 @@ x Make sure you get rid of all branches online and locally except the master bra
 
 ### Stash / Branches / Merging
 
-- Create a new branch called stash-practice
-- On line three add a second console.log() to your index.js file
-- Stash your changes and swap back over to the master branch
-- Add a new file called new-file.py
-- Add a print('hello') to this file
-- Add, commit and push that up to github
+x Create a new branch called stash-practice
+x On line three add a second console.log() to your index.js file
+x Stash your changes and swap back over to the master branch
+x Add a new file called new-file.py
+x Add a print('hello') to this file
+x Add, commit and push that up to github
 - Swap back to your stash-practice branch
 - Bring back your stashed changes
 - Don't forget to clear your stash
